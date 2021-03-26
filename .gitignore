@@ -85,3 +85,5 @@ DerivedDataCache/*
 *.7z
 *.tga
 *.fbx
+
+!Binaries/*
